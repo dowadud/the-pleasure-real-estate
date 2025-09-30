@@ -12,8 +12,8 @@
   "author": "The Pleasure Real Estate",
   "homepage": "https://thepleasurerealestate.com",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
